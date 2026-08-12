@@ -239,6 +239,38 @@ Durante o desenvolvimento foram utilizados conceitos como:
 - Validação de dados
 - Organização de projeto Full Stack
 
+
+## Screenshots
+
+### Alunos 
+
+![alt text](screenshots/alunos.png)
+
+### Alunos Cadastrados
+
+![alt text](<screenshots/alunos cadastrados.png>)
+
+### Cursos
+
+![alt text](<screenshots/curso .png>)
+
+### Curso cadastrado
+
+![alt text](<screenshots/curso cadastrado.png>)
+
+### Disciplinas
+
+![alt text](screenshots/Disciplinas.png)
+
+### Disciplinas cadastradas
+
+![alt text](<screenshots/disciplina cadastrada.png>)
+
+### Dashboard
+
+![alt text](screenshots/dashboard.png)
+
+
 ##  Autor
 
 Vinicius Cunha
